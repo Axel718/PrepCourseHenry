@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio de prueba 
+Este es un repositorio de prueba de como clonar un repositorio de GibHub a mi computadora 
